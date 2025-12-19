@@ -1,1 +1,2 @@
-This is my first Repo
+Name : Sharsith Nihal
+Subb : GitHub
